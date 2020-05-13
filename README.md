@@ -1,26 +1,26 @@
-# abdulhamid.github.io
-![myphoto](https://avatars1.githubusercontent.com/u/57312937?s=460&u=185e52e42d0dec66fc44c0264774c060301710e6&v=4)
-[**my github**](https://github.com/ali1996-sy)
 
-## skills 
+## my name is Abdulhamid ali
 
-* Php
-![php_photo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png)
-* Sql "*dataBase*" ![](https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1)
-* java ![java](https://www.malekal.com/wp-content/uploads/Java_logo.jpg.webp)
+![my photo](https://avatars1.githubusercontent.com/u/57312937?s=460&u=185e52e42d0dec66fc44c0264774c060301710e6&v=4)
 
-## languages
-1- arabic
-2- english
-3- french
-4- kurdish
+[my github](https://github.com/ali1996-sy)
 
-table of seasons
+##hobbies
 ===========
-| season       | start          | 
+| hobbie    | type        | 
 | ------------- |:-------------:| 
-| winter    | December 21  | 
-| summer     | June 20     |   
-| spring | March 19        |    
-| Autumn  |December 21     |
-![season](https://in2english.net/wp-content/uploads/2017/08/months-seasons2.jpg)
+| sport    | foorball | 
+| music    | classic    |   
+| cooking| arabic food       |   
+
+###   My Projects
+ php  | html/css
+------| --------
+![php](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4JKbkZ8QtgGmh6t8Wx696DZ0b6_E7dw2I_3BXeB3S9-C6Z-mB&usqp=CAU)|![html](https://soofos.nl/wp-content/uploads/2019/05/HTML.jpg)
+
+* languages
+  - Arabic
+  - English
+  - french
+  - kurdish
+   
